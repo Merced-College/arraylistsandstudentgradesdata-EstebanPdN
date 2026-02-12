@@ -1,5 +1,5 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=22657272)
-# arrayListsAndStudentGradesData
+Reflection:
 
-This is your README.md file where you can write your reflection response for this programming project.
-
+For me the hardest part was reading and parsing the CSV file correctly. 
+At first, I was having an issue with the file paths and formatting, but I got it after a little bit of testing, I learned how to split lines and convert strings to integers. 
+I think ArrayList are really helpfull, it is the first time I store one inside an object and use it in a real program. So it was really cool.
